@@ -4,3 +4,4 @@ Programa de automatización de tareas
 -Extraer una carpeta de la raiz de una USB a una dirección especifica de una PC
 
 *EN DESARROLLO AÚN
+<img src="https://fotos.subefotos.com/c3c2e843db44f9691887745b2565a23do.png">
